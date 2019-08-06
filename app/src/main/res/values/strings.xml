@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TravelMantics</string>
+    <string name="edit_text_location">Location</string>
+    <string name="edit_text_vacation">Destination</string>
+    <string name="edit_text_amount">Amount</string>
+    <string name="nav_bottom_appbar">Bottom App Bar</string>
+
+    <!--currency unicodes-->
+    <string name="arab_code">&#x62f;&#x2e;&#x625;</string>
+    <string name="argentina_code">\u20b1</string>
+    <string name="australia_code">&#x41;\u0024</string>
+    <string name="brazilian_code">\u211d&#x24;</string>
+    <string name="pound_code">\u20a4</string>
+    <string name="cameroon_code">CFA</string>
+    <string name="canadian_code">CA\u0024</string>
+    <string name="danish_code">Kr</string>
+    <string name="etherium_code">&#x39e;</string>
+    <string name="euro_code">\u20ac</string>
+    <string name="rupee_code">\u20b9</string>
+    <string name="japanese_code">\u00a5</string>
+    <string name="kenya_code">Ksw</string>
+    <string name="korea_code">\u20a9</string>
+    <string name="naira_code">\u20a6</string>
+    <string name="rand_code">\u211d</string>
+    <string name="yuan_code">\u00a5</string>
+    <string name="ruble_code">\u20bd</string>
+    <string name="riyal_code">\ufdfc</string>
+    <string name="krona_code">Kr</string>
+    <string name="franc_code">&#x43;&#x48;&#x20a3;</string>
+    <string name="lira_code">\u20ba</string>
+    <string name="dollar_code">\u0024</string>
+    <string name="bitcoin_code">\u0243</string>
+    <string name="isreali_code">\u20aa</string>
+    <string name="ethopian_code">&#4709;&#4653;</string>
+    <string name="polish_code">z&#x142;</string>
+    <string name="save">SAVE</string>
+    <string name="edit_text_descrition">Vacation Description</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="logout">LOG OUT</string>
+    <string name="addimage">Add Image</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam\"</string>
+    <string name="welcomeUser">Where do you want \nto go today?</string>
+    <string name="welcomeAdmin">Create a travel deal!</string>
+</resources>

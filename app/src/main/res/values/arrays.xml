@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_currency_unicodes">
+        <item>@string/arab_code</item>
+        <item>@string/argentina_code</item>
+        <item>@string/australia_code</item>
+        <item>@string/bitcoin_code</item>
+        <item>@string/brazilian_code</item>
+        <item>@string/pound_code</item>
+        <item>@string/cameroon_code</item>
+        <item>@string/canadian_code</item>
+        <item>@string/danish_code</item>
+        <item>@string/etherium_code</item>
+        <item>@string/euro_code</item>
+        <item>@string/rupee_code</item>
+        <item>@string/isreali_code</item>
+        <item>@string/japanese_code</item>
+        <item>@string/kenya_code</item>
+        <item>@string/korea_code</item>
+        <item>@string/naira_code</item>
+        <item>@string/polish_code</item>
+        <item>@string/rand_code</item>
+        <item>@string/yuan_code</item>
+        <item>@string/ruble_code</item>
+        <item>@string/riyal_code</item>
+        <item>@string/franc_code</item>
+        <item>@string/lira_code</item>
+        <item>@string/dollar_code</item>
+    </string-array>
+</resources>

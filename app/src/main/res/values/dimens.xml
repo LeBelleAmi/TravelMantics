@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_common">16dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="dimen_common2">8dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+
+
+
+</resources>
